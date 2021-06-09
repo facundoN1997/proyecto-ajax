@@ -192,7 +192,7 @@ document.getElementById("toggle").addEventListener("click",()=>{
 
 //FUNCION QUE DOTA DE INTERACTIVIDAD AL MENU DE INICIO
 document.querySelector(".identy h1").addEventListener("click",()=>{
-    location.reload();
+    location.href="https://facundon1997.github.io/proyecto-ajax/"
 
 
 })
