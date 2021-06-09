@@ -73,8 +73,11 @@
     float: left;
     width: 60px;
     height: 60px;
-    cursor: pointer;
    
+}
+
+.identy h1{
+    cursor:pointer;
 }
 
 
