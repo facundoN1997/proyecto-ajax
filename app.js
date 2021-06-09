@@ -191,7 +191,7 @@ document.getElementById("toggle").addEventListener("click",()=>{
 })
 
 //FUNCION QUE DOTA DE INTERACTIVIDAD AL MENU DE INICIO
-document.getElementById("identy").addEventListener("click",()=>{
+document.querySelector(".identy h1").addEventListener("click",()=>{
     location.reload();
 
 
