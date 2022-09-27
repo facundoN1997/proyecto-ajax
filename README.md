@@ -1,5 +1,5 @@
 
-[https://github.com/facundoangel/proyecto-ajax/blob/main/demo.jpg](imagen demo)
+![https://github.com/facundoangel/proyecto-ajax/blob/main/demo.jpg](imagen demo)
 
 
 # proyecto-ajax
